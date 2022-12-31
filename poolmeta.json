@@ -1,8 +1,8 @@
 {
-  "name": "Stardust Stake Pool",
+  "name": "Stardust",
   "ticker": "DUST",
-  "description": "",
+  "description": "A Cardano Stake Pool",
   "homepage": "https://adastrium.io",
-  "nonce": "1672334214"
+  "nonce": "1672481244"
 }
 
